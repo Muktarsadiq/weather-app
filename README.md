@@ -1,2 +1,2 @@
 # weather-app
-a javaScript weather app
+This is a javaScript weather app
